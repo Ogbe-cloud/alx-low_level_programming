@@ -1,0 +1,1 @@
+A singly linked list is a fundamentaldata structure used in computer science and programming. We use it when we want our programme to have dynamic datatype, Efficient insertions and deletions , memory efficiency ,flexibility ,support for large data set amongst others.
